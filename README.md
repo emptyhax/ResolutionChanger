@@ -1,4 +1,4 @@
-# ResolutionChanger
+# ResolutionChanger (only windows)
 
 ## How to Use
 
